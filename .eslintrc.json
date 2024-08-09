@@ -1,0 +1,8 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-unused-vars": "warn",
+    "quotes": ["error", "single", "backtick", { "avoidEscape": true }],
+    "semi": ["error", "never"]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "quoteProps": "as-needed",
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
